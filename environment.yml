@@ -10,4 +10,4 @@ dependencies:
   - scipy
   - pyreadstat
   - seaborn
-  - imblearn
+  - imbalanced-learn
